@@ -1,0 +1,858 @@
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/checksums/checksums.lock b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/checksums/checksums.lock
+new file mode 100644
+index 0000000..192db7e
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/checksums/checksums.lock differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/checksums/md5-checksums.bin b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/checksums/md5-checksums.bin
+new file mode 100644
+index 0000000..a56b5c3
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/checksums/md5-checksums.bin differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/checksums/sha1-checksums.bin b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/checksums/sha1-checksums.bin
+new file mode 100644
+index 0000000..a76f6a3
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/checksums/sha1-checksums.bin differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock
+new file mode 100644
+index 0000000..07d443e
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/dependencies-accessors/gc.properties b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/dependencies-accessors/gc.properties
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/fileChanges/last-build.bin b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/fileChanges/last-build.bin
+new file mode 100644
+index 0000000..f76dd23
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/fileChanges/last-build.bin differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/fileHashes/fileHashes.lock b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/fileHashes/fileHashes.lock
+new file mode 100644
+index 0000000..ba03a99
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/fileHashes/fileHashes.lock differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/gc.properties b/node_modules/vision-camera-mrz-scanner/android/.gradle/8.4/gc.properties
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock b/node_modules/vision-camera-mrz-scanner/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+new file mode 100644
+index 0000000..67f8ff8
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/buildOutputCleanup/cache.properties b/node_modules/vision-camera-mrz-scanner/android/.gradle/buildOutputCleanup/cache.properties
+new file mode 100644
+index 0000000..1a8c522
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/.gradle/buildOutputCleanup/cache.properties
+@@ -0,0 +1,2 @@
++#Mon Oct 21 11:22:38 EEST 2024
++gradle.version=8.4
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/config.properties b/node_modules/vision-camera-mrz-scanner/android/.gradle/config.properties
+new file mode 100644
+index 0000000..9890bb3
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/.gradle/config.properties
+@@ -0,0 +1,2 @@
++#Mon Oct 21 11:22:30 EEST 2024
++java.home=/Applications/Android Studio.app/Contents/jbr/Contents/Home
+diff --git a/node_modules/vision-camera-mrz-scanner/android/.gradle/vcs-1/gc.properties b/node_modules/vision-camera-mrz-scanner/android/.gradle/vcs-1/gc.properties
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/.transforms/b0a8c41136f7e40b88d3edf16d1a6eaf/results.bin b/node_modules/vision-camera-mrz-scanner/android/build/.transforms/b0a8c41136f7e40b88d3edf16d1a6eaf/results.bin
+new file mode 100644
+index 0000000..0d259dd
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/.transforms/b0a8c41136f7e40b88d3edf16d1a6eaf/results.bin
+@@ -0,0 +1 @@
++o/classes
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/.transforms/b0a8c41136f7e40b88d3edf16d1a6eaf/transformed/classes/classes_dex/classes.dex b/node_modules/vision-camera-mrz-scanner/android/build/.transforms/b0a8c41136f7e40b88d3edf16d1a6eaf/transformed/classes/classes_dex/classes.dex
+new file mode 100644
+index 0000000..1ba1e80
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/.transforms/b0a8c41136f7e40b88d3edf16d1a6eaf/transformed/classes/classes_dex/classes.dex differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/generated/source/buildConfig/debug/com/visioncameramrzscanner/BuildConfig.java b/node_modules/vision-camera-mrz-scanner/android/build/generated/source/buildConfig/debug/com/visioncameramrzscanner/BuildConfig.java
+new file mode 100644
+index 0000000..a4b181e
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/generated/source/buildConfig/debug/com/visioncameramrzscanner/BuildConfig.java
+@@ -0,0 +1,12 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.visioncameramrzscanner;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "com.visioncameramrzscanner";
++  public static final String BUILD_TYPE = "debug";
++  // Field from default config.
++  public static final boolean IS_NEW_ARCHITECTURE_ENABLED = false;
++}
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..74ee7fb
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.visioncameramrzscanner" >
++
++    <uses-sdk android:minSdkVersion="23" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json
+new file mode 100644
+index 0000000..6eb7114
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.visioncameramrzscanner",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties
+new file mode 100644
+index 0000000..1211b1e
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/aar_metadata/debug/writeDebugAarMetadata/aar-metadata.properties
+@@ -0,0 +1,6 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minCompileSdkExtension=0
++minAndroidGradlePluginVersion=1.0.0
++coreLibraryDesugaringEnabled=false
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar
+new file mode 100644
+index 0000000..72b91c8
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar
+new file mode 100644
+index 0000000..7d3a0d1
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/compile_symbol_list/debug/generateDebugRFile/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..71fa99c
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Mon Oct 21 09:29:36 EEST 2024
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..8e2740c
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/build/generated/res/resValues/debug"/></dataSet><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..a1f9019
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/debug/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/mergeDebugShaders/merger.xml b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+new file mode 100644
+index 0000000..02e33b5
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/debug/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/packageDebugAssets/merger.xml b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+new file mode 100644
+index 0000000..1155dad
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/assets"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/debug/assets"/></dataSet><dataSet config="generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/build/intermediates/shader_assets/debug/compileDebugShaders/out"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/vision-camera-mrz-scanner_debug.kotlin_module b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/vision-camera-mrz-scanner_debug.kotlin_module
+new file mode 100644
+index 0000000..1e9f2ca
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/vision-camera-mrz-scanner_debug.kotlin_module differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/visioncameramrzscanner/BuildConfig.class b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/visioncameramrzscanner/BuildConfig.class
+new file mode 100644
+index 0000000..7bf91d1
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/visioncameramrzscanner/BuildConfig.class differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt
+new file mode 100644
+index 0000000..bea671b
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/manifest_merge_blame_file/debug/processDebugManifest/manifest-merger-blame-debug-report.txt
+@@ -0,0 +1,7 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="com.visioncameramrzscanner" >
++4
++5    <uses-sdk android:minSdkVersion="23" />
++6
++7</manifest>
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml
+new file mode 100644
+index 0000000..74ee7fb
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.visioncameramrzscanner" >
++
++    <uses-sdk android:minSdkVersion="23" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+new file mode 100644
+index 0000000..08f4ebe
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt
+@@ -0,0 +1 @@
++0 Warning/Error
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar
+new file mode 100644
+index 0000000..d206c31
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+new file mode 100644
+index 0000000..19a6a18
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/intermediates/symbol_list_with_package_name/debug/generateDebugRFile/package-aware-r.txt
+@@ -0,0 +1 @@
++com.visioncameramrzscanner
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab
+new file mode 100644
+index 0000000..0610cad
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream
+new file mode 100644
+index 0000000..15ba133
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len
+new file mode 100644
+index 0000000..3f9b7b8
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len
+new file mode 100644
+index 0000000..01bdaa1
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at
+new file mode 100644
+index 0000000..e2f8786
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i
+new file mode 100644
+index 0000000..df8d7a2
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab
+new file mode 100644
+index 0000000..14848fd
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream
+new file mode 100644
+index 0000000..5b4fbc7
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len
+new file mode 100644
+index 0000000..31d8b36
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at
+new file mode 100644
+index 0000000..3737e13
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i
+new file mode 100644
+index 0000000..a366de7
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab
+new file mode 100644
+index 0000000..4f1a291
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream
+new file mode 100644
+index 0000000..5b4fbc7
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len
+new file mode 100644
+index 0000000..31d8b36
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at
+new file mode 100644
+index 0000000..85e3943
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i
+new file mode 100644
+index 0000000..a366de7
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab
+new file mode 100644
+index 0000000..09512ab
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream
+new file mode 100644
+index 0000000..55b3d59
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len
+new file mode 100644
+index 0000000..31d8b36
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len
+new file mode 100644
+index 0000000..a9f80ae
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at
+new file mode 100644
+index 0000000..85e3943
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i
+new file mode 100644
+index 0000000..7e781ae
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab
+new file mode 100644
+index 0000000..fbc7be2
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream
+new file mode 100644
+index 0000000..b43ed8b
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len
+new file mode 100644
+index 0000000..4445403
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len
+new file mode 100644
+index 0000000..93a595b
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at
+new file mode 100644
+index 0000000..787b565
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i
+new file mode 100644
+index 0000000..1679133
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab
+new file mode 100644
+index 0000000..20e45da
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream
+new file mode 100644
+index 0000000..dbb1b1d
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len
+new file mode 100644
+index 0000000..3f9b7b8
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len
+new file mode 100644
+index 0000000..01bdaa1
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at
+new file mode 100644
+index 0000000..aa34c96
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i
+new file mode 100644
+index 0000000..e1ec519
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab
+new file mode 100644
+index 0000000..60d4d72
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream
+new file mode 100644
+index 0000000..f74a1be
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len
+new file mode 100644
+index 0000000..2537434
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len
+new file mode 100644
+index 0000000..01bdaa1
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at
+new file mode 100644
+index 0000000..9a83036
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i
+new file mode 100644
+index 0000000..5200129
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab
+new file mode 100644
+index 0000000..99e1127
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream
+new file mode 100644
+index 0000000..a7d1b57
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len
+new file mode 100644
+index 0000000..a747334
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len
+new file mode 100644
+index 0000000..01bdaa1
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at
+new file mode 100644
+index 0000000..5d6b9ed
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i
+new file mode 100644
+index 0000000..10326ee
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab
+new file mode 100644
+index 0000000..26d3b09
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab
+@@ -0,0 +1,2 @@
++4
++0
+\ No newline at end of file
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab
+new file mode 100644
+index 0000000..79209dd
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream
+new file mode 100644
+index 0000000..dbb1b1d
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len
+new file mode 100644
+index 0000000..3f9b7b8
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len
+new file mode 100644
+index 0000000..01bdaa1
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at
+new file mode 100644
+index 0000000..3e23c2a
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i
+new file mode 100644
+index 0000000..e1ec519
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab
+new file mode 100644
+index 0000000..c28b563
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream
+new file mode 100644
+index 0000000..6e7a926
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len
+new file mode 100644
+index 0000000..eb52963
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len
+new file mode 100644
+index 0000000..93a595b
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at
+new file mode 100644
+index 0000000..944199a
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i
+new file mode 100644
+index 0000000..6936967
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab
+new file mode 100644
+index 0000000..f6fd160
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream
+new file mode 100644
+index 0000000..f9460af
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len
+new file mode 100644
+index 0000000..757a1d9
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len
+new file mode 100644
+index 0000000..24ba3b6
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at
+new file mode 100644
+index 0000000..dbf40a4
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i
+new file mode 100644
+index 0000000..a709e6e
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len
+new file mode 100644
+index 0000000..131e265
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin
+new file mode 100644
+index 0000000..ecba69d
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/cacheable/last-build.bin differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin
+new file mode 100644
+index 0000000..d8e6a8a
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin
+new file mode 100644
+index 0000000..e8614ae
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/kotlin/compileDebugKotlin/local-state/build-history.bin differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/vision-camera-mrz-scanner/android/build/outputs/logs/manifest-merger-debug-report.txt
+new file mode 100644
+index 0000000..9e5cb6b
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/build/outputs/logs/manifest-merger-debug-report.txt
+@@ -0,0 +1,17 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/AndroidManifest.xml:1:1-4:12
++INJECTED from /Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/AndroidManifest.xml:1:1-4:12
++	package
++		ADDED from /Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/AndroidManifest.xml:2:11-47
++		INJECTED from /Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/AndroidManifest.xml:1:11-69
++uses-sdk
++INJECTED from /Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/AndroidManifest.xml
++INJECTED from /Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/Jevgenijs_Kozlovs/RNPassportScan/node_modules/vision-camera-mrz-scanner/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/vision-camera-mrz-scanner/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..a3e7a91
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/META-INF/vision-camera-mrz-scanner_debug.kotlin_module b/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/META-INF/vision-camera-mrz-scanner_debug.kotlin_module
+new file mode 100644
+index 0000000..1e9f2ca
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/META-INF/vision-camera-mrz-scanner_debug.kotlin_module differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/com/visioncameramrzscanner/VisionCameraMrzScannerPackage$Companion.class b/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/com/visioncameramrzscanner/VisionCameraMrzScannerPackage$Companion.class
+new file mode 100644
+index 0000000..dcacbc3
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/com/visioncameramrzscanner/VisionCameraMrzScannerPackage$Companion.class differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/com/visioncameramrzscanner/VisionCameraMrzScannerPackage.class b/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/com/visioncameramrzscanner/VisionCameraMrzScannerPackage.class
+new file mode 100644
+index 0000000..33d4917
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/com/visioncameramrzscanner/VisionCameraMrzScannerPackage.class differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/com/visioncameramrzscanner/VisionCameraMrzScannerPlugin.class b/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/com/visioncameramrzscanner/VisionCameraMrzScannerPlugin.class
+new file mode 100644
+index 0000000..83c7a4e
+Binary files /dev/null and b/node_modules/vision-camera-mrz-scanner/android/build/tmp/kotlin-classes/debug/com/visioncameramrzscanner/VisionCameraMrzScannerPlugin.class differ
+diff --git a/node_modules/vision-camera-mrz-scanner/android/local.properties b/node_modules/vision-camera-mrz-scanner/android/local.properties
+new file mode 100644
+index 0000000..8bf3da3
+--- /dev/null
++++ b/node_modules/vision-camera-mrz-scanner/android/local.properties
+@@ -0,0 +1,8 @@
++## This file must *NOT* be checked into Version Control Systems,
++# as it contains information specific to your local configuration.
++#
++# Location of the SDK. This is only used by Gradle.
++# For customization when using a Version Control System, please read the
++# header note.
++#Mon Oct 21 11:22:30 EEST 2024
++sdk.dir=/Users/Jevgenijs_Kozlovs/Library/Android/sdk
+diff --git a/node_modules/vision-camera-mrz-scanner/android/src/main/java/com/visioncameramrzscanner/VisionCameraMrzScannerPackage.kt b/node_modules/vision-camera-mrz-scanner/android/src/main/java/com/visioncameramrzscanner/VisionCameraMrzScannerPackage.kt
+index d86a745..1217c48 100644
+--- a/node_modules/vision-camera-mrz-scanner/android/src/main/java/com/visioncameramrzscanner/VisionCameraMrzScannerPackage.kt
++++ b/node_modules/vision-camera-mrz-scanner/android/src/main/java/com/visioncameramrzscanner/VisionCameraMrzScannerPackage.kt
+@@ -4,13 +4,31 @@ import com.facebook.react.ReactPackage
+ import com.facebook.react.bridge.NativeModule
+ import com.facebook.react.bridge.ReactApplicationContext
+ import com.facebook.react.uimanager.ViewManager
+-import com.mrousavy.camera.frameprocessor.FrameProcessorPlugin
+-
++import com.mrousavy.camera.frameprocessors.FrameProcessorPlugin;
++import com.mrousavy.camera.frameprocessors.FrameProcessorPluginRegistry;
+ 
+ class VisionCameraMrzScannerPackage : ReactPackage {
++  companion object {
++    init {
++      FrameProcessorPluginRegistry.addFrameProcessorPlugin("scanMRZ") { proxy, options ->
++        VisionCameraMrzScannerPlugin(proxy, options)
++      }
++    }
++  }
++
+   override fun createNativeModules(reactContext: ReactApplicationContext): List<NativeModule> {
+-    FrameProcessorPlugin.register(VisionCameraMrzScannerPlugin())
++    // Original code
++    // FrameProcessorPlugin.register(VisionCameraMrzScannerPlugin())
++    // return emptyList()
++
++    // Example
++    // List<NativeModule> modules = new ArrayList<>();
++    // VisionCameraDynamsoftLabelRecognizerModule module = new VisionCameraDynamsoftLabelRecognizerModule(reactContext);
++    // modules.add(module);
++    // return modules;
++
+     return emptyList()
++
+   }
+ 
+   override fun createViewManagers(reactContext: ReactApplicationContext): List<ViewManager<*, *>> {
+diff --git a/node_modules/vision-camera-mrz-scanner/android/src/main/java/com/visioncameramrzscanner/VisionCameraMrzScannerPlugin.kt b/node_modules/vision-camera-mrz-scanner/android/src/main/java/com/visioncameramrzscanner/VisionCameraMrzScannerPlugin.kt
+index 57c5b5f..a7f7fe2 100644
+--- a/node_modules/vision-camera-mrz-scanner/android/src/main/java/com/visioncameramrzscanner/VisionCameraMrzScannerPlugin.kt
++++ b/node_modules/vision-camera-mrz-scanner/android/src/main/java/com/visioncameramrzscanner/VisionCameraMrzScannerPlugin.kt
+@@ -14,11 +14,15 @@ import com.google.mlkit.vision.common.InputImage
+ import com.google.mlkit.vision.text.Text
+ import com.google.mlkit.vision.text.TextRecognition
+ import com.google.mlkit.vision.text.latin.TextRecognizerOptions
+-import com.mrousavy.camera.frameprocessor.FrameProcessorPlugin
++// Edited by Jev
++import com.mrousavy.camera.frameprocessors.Frame
++import com.mrousavy.camera.frameprocessors.FrameProcessorPlugin
++import com.mrousavy.camera.frameprocessors.VisionCameraProxy;
+ 
+-class VisionCameraMrzScannerPlugin: FrameProcessorPlugin("scanMRZ"){
++class VisionCameraMrzScannerPlugin(proxy: VisionCameraProxy, options: Map<String, Any>?): FrameProcessorPlugin(){
+ 
+-  private fun getBlockArray(blocks: MutableList<Text.TextBlock>): WritableNativeArray {
++
++private fun getBlockArray(blocks: MutableList<Text.TextBlock>): WritableNativeArray {
+     val blockArray = WritableNativeArray()
+ 
+     try {
+@@ -42,7 +46,6 @@ class VisionCameraMrzScannerPlugin: FrameProcessorPlugin("scanMRZ"){
+     return blockArray
+ }
+ 
+-
+ private fun getLineArray(lines: MutableList<Text.Line>): WritableNativeArray {
+     val lineArray = WritableNativeArray()
+     try {
+@@ -133,24 +136,25 @@ private fun getFrame(boundingBox: Rect?): WritableNativeMap {
+ }
+ 
+ @SuppressLint("NewApi")
+-override fun callback(frame: ImageProxy, params: Array<Any>): Any? {
++// override fun callback(frame: ImageProxy, params: Array<Any>): Any? {
++override fun callback(frame: Frame, arguments: Map<String, Any>?): Any? {
+ 
+     val result = WritableNativeMap()    
+-    
+     val recognizer = TextRecognition.getClient(TextRecognizerOptions.DEFAULT_OPTIONS)
+     @SuppressLint("UnsafeOptInUsageError")
+     val mediaImage: Image? = frame.getImage()
+ 
+     if (mediaImage != null) {
++    // Log.d("VisionCameraMrzScanner", "boundingBox: ${boundingBox}")
+         return try {
+-            val image = InputImage.fromMediaImage(mediaImage, frame.imageInfo.rotationDegrees)
++            val image = InputImage.fromMediaImage(mediaImage, frame.getImageProxy().getImageInfo().getRotationDegrees())
+             val task: Task<Text> = recognizer.process(image)
+                 val text: Text = Tasks.await<Text>(task)
+                 result.putString("text", text.text)
+                 result.putArray("blocks", getBlockArray(text.textBlocks))
+                 val data = WritableNativeMap()
+                 data.putMap("result", result)
+-                return data
++                return data.toHashMap()
+         } catch (e: Exception) {
+             Log.e("VisionCameraMrzScanner", "Error: ${e.message}")
+             e.printStackTrace()
+@@ -159,3 +163,4 @@ override fun callback(frame: ImageProxy, params: Array<Any>): Any? {
+     return null 
+ }
+ }
++
+diff --git a/node_modules/vision-camera-mrz-scanner/src/components/MRZCamera.tsx b/node_modules/vision-camera-mrz-scanner/src/components/MRZCamera.tsx
+index 1294789..517a901 100644
+--- a/node_modules/vision-camera-mrz-scanner/src/components/MRZCamera.tsx
++++ b/node_modules/vision-camera-mrz-scanner/src/components/MRZCamera.tsx
+@@ -20,9 +20,11 @@ import {
+   ViewStyle,
+ } from 'react-native';
+ import {runOnJS} from 'react-native-reanimated';
++import {Worklets} from 'react-native-worklets-core'
+ import {
+   Camera,
+   Frame,
++  useCameraDevice,
+   useCameraDevices,
+   useFrameProcessor,
+ } from 'react-native-vision-camera';
+@@ -59,9 +61,10 @@ const MRZCamera: FC<PropsWithChildren<MRZCameraProps>> = ({
+   // Permissions
+   const [hasPermission, setHasPermission] = React.useState(false);
+   // camera states
+-  const devices = useCameraDevices();
+-  const direction: 'front' | 'back' = cameraDirection ?? 'back';
+-  const device = devices[direction];
++  // const devices = useCameraDevices();
++  const back = useCameraDevice('back');
++  // const direction: 'front' | 'back' = cameraDirection ?? 'back';
++  const device = back;
+   const camera = useRef<Camera>(null);
+   const {height: screenHeight, width: screenWidth} = useWindowDimensions();
+   const [isActive, setIsActive] = useState(true);
+@@ -99,7 +102,7 @@ const MRZCamera: FC<PropsWithChildren<MRZCameraProps>> = ({
+    * Prevents sending copious amounts of scans
+    */
+   const handleScan = useCallback(
+-    (data: MRZFrame, frame: Frame) => {
++    Worklets.createRunOnJS((data: MRZFrame, frame: Frame) => {
+       const isRotated = !landscapeMode;
+       setFrameDimensions(
+         isRotated
+@@ -149,7 +152,8 @@ const MRZCamera: FC<PropsWithChildren<MRZCameraProps>> = ({
+           setOcrElements([]);
+         }
+       }
+-    },
++    })
++    ,
+     [isActive, landscapeMode, onData, screenWidth],
+   );
+ 
+@@ -165,7 +169,7 @@ const MRZCamera: FC<PropsWithChildren<MRZCameraProps>> = ({
+       'worklet';
+       if (!scanSuccess) {
+         const ocrData = scanMRZ(frame);
+-        runOnJS(handleScan)(ocrData, frame);
++        handleScan(ocrData, frame);
+       }
+     },
+     [handleScan],
+@@ -174,7 +178,8 @@ const MRZCamera: FC<PropsWithChildren<MRZCameraProps>> = ({
+   useEffect(() => {
+     (async () => {
+       const status = await Camera.requestCameraPermission();
+-      setHasPermission(status === 'authorized');
++      console.log('status', status)
++      setHasPermission(status === 'authorized' || status === 'granted');
+     })();
+   }, []);
+ 
+@@ -238,12 +243,11 @@ const MRZCamera: FC<PropsWithChildren<MRZCameraProps>> = ({
+   //*****************************************************************************************
+   // Components
+   //*****************************************************************************************
+-
+   return (
+     <View style={style}>
+       {device && hasPermission ? (
+         <Camera
+-          style={cameraProps?.style ?? StyleSheet.absoluteFill}
++          style={style}
+           device={cameraProps?.device ?? device}
+           torch={cameraProps?.torch}
+           isActive={
+diff --git a/node_modules/vision-camera-mrz-scanner/src/util/wrapper.ts b/node_modules/vision-camera-mrz-scanner/src/util/wrapper.ts
+index a385849..685fd7f 100644
+--- a/node_modules/vision-camera-mrz-scanner/src/util/wrapper.ts
++++ b/node_modules/vision-camera-mrz-scanner/src/util/wrapper.ts
+@@ -1,9 +1,13 @@
++import { VisionCameraProxy } from 'react-native-vision-camera';
+ import type {Frame} from 'react-native-vision-camera';
+ import type {MRZFrame} from '../types/types';
+ 
++const pluginName = 'scanMRZ'
++const plugin = VisionCameraProxy.initFrameProcessorPlugin('scanMRZ', {})
++
+ export default function scanMRZ(frame: Frame): MRZFrame {
+   'worklet';
+   // @ts-ignore
+-
+-  return __scanMRZ(frame);
++  if (plugin == null) throw new Error('Failed to load Frame Processor Plugin "scanMRZ"!')
++  return plugin.call(frame);
+ }
